@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<!-- this guy is jekyll liquid tag-->
+			<title>{{ page.title }}</title>
+			<!-- css stylesheet -->
+			<link rel="stylesheet" type="text/css" href="css/main.css">
+		</head>
+		<body>
+			<header>
+				The Blair Robot Project
+			</header>
+			<nav>
+	    		<ul>
+	    			<!-- the tab stuff -->
+	        		<li><a href="/449">Home</a></li>
+		        	<li><a href="449/news">News</a></li>
+		        	<div class="dropdown">
+		          	<li><a href="449/about">About</a></li>
+	        		  	<div class="links">
+	        		      <a href="449/history">History</a>
+                    <a href="449/mentors">Mentors</a>
+                    <a href="449/achievements">Achievements</a>
+                    <a href="449/students">Students</a>
+                    <a href="449/robots">Robots</a>
+                  </div>
+              </div>
+	        		<li><a href="449/media">Media</a></li>
+	        		<div class=dropdown>
+	        		  <li><a href="449/community">Community</a></li>
+	        		    <div class=links>
+	        		      <a href="449/outreach">Outreach</a>
+	        		    </div>
+	        		</div>
+	        		<li><a href="449/sponsors">Sponsors</a></li>
+	        		  <li><a href="449/contact">Contact</a></li>
+	    		</ul>
+			</nav>
+			<!-- stuff goes here (<p>,<h#>, etc) -->
+			<div class="container">
+			
+			{{ content }}
+			
+			</div>
+		</body>
+	</html>
