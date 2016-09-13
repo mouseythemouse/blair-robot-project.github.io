@@ -65,6 +65,7 @@ h2 {
     font-weight: bold;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: left;
+    margin-left: 100px;
 }
 .container {
     float: left;
