@@ -63,10 +63,10 @@ a:hover {
 h2 {
     font-size: 3em;
     font-weight: bold;
-    color: red;
+    color: blue;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: left;
-    margin-left: 150px;
+    margin-left: 50px;
 }
 .container {
     float: left;
