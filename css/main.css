@@ -88,8 +88,6 @@ p {
 .donations p {
     text-align: center;
     color: gray;
-    line-height: 2em;
+    line-height: 1.8em;
     font-size: 1.5em;
-    
-    
 }
