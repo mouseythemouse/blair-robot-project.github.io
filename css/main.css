@@ -17,9 +17,7 @@ header {
     border: 2px solid black;
     background-color: black;
 }
-.speshul p {
-    color:orange;
-}
+
 nav ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
@@ -86,4 +84,12 @@ p {
     margin-left: 50px;
     height: 100%;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+.donations p {
+    text-align: center;
+    color: gray;
+    line-height: 2em;
+    font-size: 1.5em;
+    
+    
 }
