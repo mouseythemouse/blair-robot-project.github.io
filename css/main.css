@@ -92,7 +92,7 @@ p {
     margin-left: 50px;
     margin-right: 80px;
     height: 100%;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /*font-family: 'Helvetica', 'Arial', 'Sans-Serif';*/
 }
 .donations p {
     text-align: center;
