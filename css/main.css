@@ -5,6 +5,7 @@ body {
     width: 100%;
 }
 header {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     margin: 0px;
     padding: 0px;
     position: relative;
