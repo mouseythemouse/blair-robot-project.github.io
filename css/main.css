@@ -77,6 +77,15 @@ h4 {
     text-align: left;
     margin-left: 50px;
 }
+.img {
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: left;
+    margin-left: 50px;
+    margin-bottom:450px;
+}
 .container {
     float: left;
     width: 80%;
