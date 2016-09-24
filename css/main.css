@@ -103,7 +103,12 @@ p {
     font-size: 1.5em;
 }
 
-.hillaryClinton p{
+.hillaryClinton p {
     margin-left: 100px;
     font-size: 1em;
 }
+
+.info {
+    display: inline;
+}
+
